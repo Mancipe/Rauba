@@ -1,0 +1,7 @@
+{
+  "name": "Rauba",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
